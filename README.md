@@ -1,11 +1,11 @@
 # SMD-DDA
 <h1> Environment Setup<br> 
 <h1> Pretrained module-Pre_Gene <br> 
-<h4> conda env create -f gene_train/ <br> 
+<h4> conda env create -f gene_train/gene.yml <br> 
 <h1> Pretrained module-Pre_Cliff  <br> 
 <h4> conda env create -f cliff_train/cliff_env.yml <br> 
 <h1> Pretrained module-Pre_Property <br> 
-<h4> conda env create -f SMD-DDA.yml<br>
+<h4> conda env create -f property_train/property_env.yml <br>
 <h1> Main Task <br> 
 <h4> conda env create -f SMD-DDA.yml<br> 
 
