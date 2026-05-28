@@ -17,6 +17,6 @@
 <h4> python main.py --dataset 'SIDER'  --data_dir 'Data' --model_dir './checkpoints/' --loss 'BCE' --epochs 500 --split_method 'random'  --epochs 500 --num_folds 10 --task 'classificfation' --metric auprc <br>
 <h1> Main Task Training <br>
 <h4> python demo.py <br>
-<h4> Illustration of the SMD-DDA framework. </h4>
+<h1> Illustration of the SMD-DDA framework. <br>
 <img src="framework.jpg" alt=""/>
 
